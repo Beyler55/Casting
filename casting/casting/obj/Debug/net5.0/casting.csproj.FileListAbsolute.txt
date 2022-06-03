@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\casting\casting\bin\Debug\net5.0\casting.exe
+C:\Users\user\source\repos\casting\casting\bin\Debug\net5.0\casting.deps.json
+C:\Users\user\source\repos\casting\casting\bin\Debug\net5.0\casting.runtimeconfig.json
+C:\Users\user\source\repos\casting\casting\bin\Debug\net5.0\casting.runtimeconfig.dev.json
+C:\Users\user\source\repos\casting\casting\bin\Debug\net5.0\casting.dll
+C:\Users\user\source\repos\casting\casting\bin\Debug\net5.0\ref\casting.dll
+C:\Users\user\source\repos\casting\casting\bin\Debug\net5.0\casting.pdb
+C:\Users\user\source\repos\casting\casting\obj\Debug\net5.0\casting.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\casting\casting\obj\Debug\net5.0\casting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\casting\casting\obj\Debug\net5.0\casting.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\casting\casting\obj\Debug\net5.0\casting.AssemblyInfo.cs
+C:\Users\user\source\repos\casting\casting\obj\Debug\net5.0\casting.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\casting\casting\obj\Debug\net5.0\casting.dll
+C:\Users\user\source\repos\casting\casting\obj\Debug\net5.0\ref\casting.dll
+C:\Users\user\source\repos\casting\casting\obj\Debug\net5.0\casting.pdb
+C:\Users\user\source\repos\casting\casting\obj\Debug\net5.0\casting.genruntimeconfig.cache
